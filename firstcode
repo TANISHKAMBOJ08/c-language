@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    clrscr();
     printf("HELLO WORLD");
     return 0;
 }
